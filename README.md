@@ -1,6 +1,6 @@
 # Olá, sou Luciano Santos 👋
 
-# Sou estudante de estatística na UFBA
+Sou estudante de estatística na UFBA
 
 ## Skills
 - R
