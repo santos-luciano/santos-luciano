@@ -13,6 +13,6 @@
 - Bootstrap
 
 
-[![Linkedin Badge](https://www.linkedin.com/in/luciano-sant/)
+[![Linkedin Badge(https://img.shields.io/badge/-Luciano_Santana_dos_Santos-0099CC?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-sant))](https://www.linkedin.com/in/luciano-sant/)
 
 
