@@ -2,12 +2,12 @@
 
 # Sou estudante de estatística na UFBA
 
-## Softskills
+## Skills
 - R
 - Python
 - Excel
 
-## Hardskills
+## Conhecimentos
 - Analise exploratória de dados
 - Regressão de modelos lineares
 - Bootstrap
