@@ -11,3 +11,6 @@
 - Analise exploratória de dados
 - Regressão de modelos lineares
 - Bootstrap
+
+
+[![Linkedin Badge](https://www.linkedin.com/in/luciano-sant/)
