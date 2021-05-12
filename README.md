@@ -16,6 +16,3 @@
 [![Linkedin Badge](https://www.linkedin.com/in/luciano-sant/)
 
 
-<p align = "left"">
-  <img src = "https://github-readme-stats.vercel.app/api?username=cecellhax&show_icons=true&theme=dark">
-</p>
