@@ -1,10 +1,11 @@
+![GitHub Logo](santos-luciano1.png)
 # Olá, sou Luciano Santos 👋
 
 🎓 Sou estudante de estatística na UFBA
 
 ## Skills
 - 💻 R
-- 💻 Python
+- 🐍 Python
 - 📊 Excel
 
 ## Conhecimentos
