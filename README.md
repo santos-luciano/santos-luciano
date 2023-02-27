@@ -13,7 +13,7 @@
 ## Conhecimentos
 - 🧮 Analise exploratória de dados
 - 📈 Regressão de modelos lineares
-- 📑 Bootstrap
+- 📑 Bootstrap estatístico
 - 🧬 Análise de Sobrevivência
 - 📶 Web Scrapping
 
