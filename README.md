@@ -1,13 +1,13 @@
 ![GitHub Logo](santos-luciano1.png)
-# Olá, sou Luciano Santos 👋
+# Olá, sou Luciano Santana 👋
 
-🎓 Sou estudante de estatística na UFBA
+🎓 Sou formado em Estatística pela UFBA
 
 ## Skills
 - 💻 R
 - 🐍 Python
 - 🗂️ Excel
-- 💾 Mongo DB
+- 💾 Mongo DB, PostgreSQL
 - 📊 Power BI
 
 ## Conhecimentos
